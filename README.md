@@ -24,7 +24,7 @@ before the players who hit 10050, that is bad luck. This is also the reason why 
 throw your dice. In the end the player wins who has the most points.
 
 
-## Discalimer
+## Disclaimer
 
 This is not the final version of the game yet!
 
